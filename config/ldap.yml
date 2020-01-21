@@ -1,3 +1,6 @@
+# USES THE PUBLIC zFlex LDAP TEST SERVER FOUND AT:
+# https://www.zflexldapadministrator.com/index.php/blog/82-free-online-ldap
+
 ## Authorizations
 # Uncomment out the merging for each environment that you'd like to include.
 # You can also just copy and paste the tree (do not include the "authorizations") to each
